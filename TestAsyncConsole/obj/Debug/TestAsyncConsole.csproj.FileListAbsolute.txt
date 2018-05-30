@@ -1,0 +1,6 @@
+C:\work\Git\TestAsync\TestAsyncConsole\bin\Debug\TestAsyncConsole.exe.config
+C:\work\Git\TestAsync\TestAsyncConsole\bin\Debug\TestAsyncConsole.exe
+C:\work\Git\TestAsync\TestAsyncConsole\bin\Debug\TestAsyncConsole.pdb
+C:\work\Git\TestAsync\TestAsyncConsole\obj\Debug\TestAsyncConsole.csproj.CoreCompileInputs.cache
+C:\work\Git\TestAsync\TestAsyncConsole\obj\Debug\TestAsyncConsole.exe
+C:\work\Git\TestAsync\TestAsyncConsole\obj\Debug\TestAsyncConsole.pdb

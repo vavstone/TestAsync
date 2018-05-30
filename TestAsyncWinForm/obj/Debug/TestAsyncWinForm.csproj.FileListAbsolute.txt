@@ -8,3 +8,13 @@ C:\Users\Андрей\source\repos\TestAsync\TestAsyncWinForm\obj\Debug\TestAsyn
 C:\Users\Андрей\source\repos\TestAsync\TestAsyncWinForm\obj\Debug\TestAsyncWinForm.csproj.CoreCompileInputs.cache
 C:\Users\Андрей\source\repos\TestAsync\TestAsyncWinForm\obj\Debug\TestAsyncWinForm.exe
 C:\Users\Андрей\source\repos\TestAsync\TestAsyncWinForm\obj\Debug\TestAsyncWinForm.pdb
+C:\work\Git\TestAsync\TestAsyncWinForm\bin\Debug\TestAsyncWinForm.exe.config
+C:\work\Git\TestAsync\TestAsyncWinForm\bin\Debug\TestAsyncWinForm.exe
+C:\work\Git\TestAsync\TestAsyncWinForm\bin\Debug\TestAsyncWinForm.pdb
+C:\work\Git\TestAsync\TestAsyncWinForm\obj\Debug\TestAsyncWinForm.csprojResolveAssemblyReference.cache
+C:\work\Git\TestAsync\TestAsyncWinForm\obj\Debug\TestAsyncWinForm.Form1.resources
+C:\work\Git\TestAsync\TestAsyncWinForm\obj\Debug\TestAsyncWinForm.Properties.Resources.resources
+C:\work\Git\TestAsync\TestAsyncWinForm\obj\Debug\TestAsyncWinForm.csproj.GenerateResource.Cache
+C:\work\Git\TestAsync\TestAsyncWinForm\obj\Debug\TestAsyncWinForm.csproj.CoreCompileInputs.cache
+C:\work\Git\TestAsync\TestAsyncWinForm\obj\Debug\TestAsyncWinForm.exe
+C:\work\Git\TestAsync\TestAsyncWinForm\obj\Debug\TestAsyncWinForm.pdb
